@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sqlite-app</string>
+    <string name="db_drop_table">DROP TABLE IF EXISTS</string>
+</resources>
